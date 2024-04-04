@@ -1,5 +1,7 @@
+import React from "react";
+
 const Dashboard = () => {
-  return <section className="new-property">Hello</section>;
+  return <div></div>;
 };
 
 export default Dashboard;
